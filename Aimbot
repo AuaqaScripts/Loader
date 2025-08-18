@@ -8,7 +8,7 @@ local success, err = pcall(function()
     
     local PlayerGui = Players.LocalPlayer:WaitForChild("PlayerGui")
     
-    local SCRIPT_URL = "https://gist.githubusercontent.com/AuaqaScripts/048ebb7f2986b702d83416b07967667a/raw/b1d14624ebc66fb87d9588c0b98a0e0433d1585c/Auaqa's%2520Universal%2520Aimbot"
+    local SCRIPT_URL = "https://raw.githubusercontent.com/AuaqaScripts/Aimbot/refs/heads/main/Main"
     local CORRECT_KEY = "8Vjhvmal"
     local DISCORD_LINK = "https://discord.gg/gsejE5P9fK"
 
